@@ -1,6 +1,5 @@
 # llm-colab-application
-LLM AI 模型 Colab 應用 - 由 Simon 整理與撰寫
-
+LLM AI 模型 Colab 應用 - 由 [Simon Liu](https://tinyurl.com/simonliuyuwei) 整理與撰寫的 Google Colab Notebook ，目的是希望能夠提供 LLM 模型實作應用方案，便於快速驗證、教學。
 
 ## Google Colab 連結
 
