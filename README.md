@@ -49,9 +49,13 @@ LLM AI 模型 Colab 應用 - 由 [Simon Liu](https://tinyurl.com/simonliuyuwei) 
 
 [ LLM as a Service ]
 
-- Ollama Model Service Example:
+- Ollama tool Model Service Example - Google Gemma Model:
 
   [Simon-LLM-Application-Ollama-Model-Service.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon-LLM-Application-Ollama-Model-Service.ipynb)
+
+- vllm tool Model Service Example - Google Gemma Model:
+
+  [Simon_LLM_Application_VLLM_Tool_Google_Gemma3_Model_Service.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_VLLM_Tool_Google_Gemma3_Model_Service.ipynb)
 
 - Expose Ngrok Link for Ollama Model Service:
 
