@@ -11,7 +11,11 @@ LLM AI 模型 Colab 應用 - 由 [Simon Liu](https://tinyurl.com/simonliuyuwei) 
 
   [Simon_LLM_Application_Google_AI_Studio_GenAISDK_Full_Method.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_Google_AI_Studio_GenAISDK_Full_Method.ipynb)
 
-- Google Gemini google-genai python SDK Example:
+- Google Gemini - Google Cloud Vertex AI - google-genai python SDK:
+
+  [Simon_LLM_Application_Google_Vertex_AI_GenAISDK_Full_Method.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_Google_Vertex_AI_GenAISDK_Full_Method.ipynb)
+  
+- Google Gemini google-genai python SDK Example: (準備下架)
 
   [Simon_LLM_Application_Google_Gemini_GenAISDK_Full_Method.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_Google_Gemini_GenAISDK_Full_Method.ipynb)
 
