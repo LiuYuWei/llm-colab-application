@@ -69,6 +69,10 @@ LLM AI 模型 Colab 應用 - 由 [Simon Liu](https://tinyurl.com/simonliuyuwei) 
 
   [Simon_LLM_Application_Ollama_Ngrok_Llm_Service.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_Ollama_Ngrok_Llm_Service.ipynb)
 
+- gpt-oss ollama service
+
+  [Simon_LLM_Application_gpt_oss_Ollama_Llm_Service.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_gpt_oss_Ollama_Llm_Service.ipynb)
+
 [ RAG ]
 
 - Simon-LLM-Application-Ollama-LLM-Model-and-RAG.ipynb
